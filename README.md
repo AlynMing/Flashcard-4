@@ -7,14 +7,14 @@ This app displays a question. When the user clicks on the question, the card wil
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/kfriday32/Flashcard/raw/master/Lab1%20-%20gif.gif"/>
 
 ## Required
 - [X] Create New Project in Android Studio
 - [X] Add a view for the front side of the flashcard to display the question
 - [X] Add a view for the back side of the flashcard to display the answer
 - [X] Build in logic to show the answer side when the card is tapped
-- [ ] Push code to GitHu
+- [X] Push code to GitHu
 ## Optional
 - [ ] toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
