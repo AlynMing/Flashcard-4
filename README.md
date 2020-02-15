@@ -5,9 +5,8 @@
 This app displays a question. When the user clicks on the question, the card will display the answer.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://github.com/kfriday32/Flashcard/raw/master/Lab1%20-%20gif.gif"/>
+<img src="https://github.com/kfriday32/Flashcard/raw/master/Lab1%20-%20gif.gif" width="250"/>
 
 ## Required
 - [X] Create New Project in Android Studio
