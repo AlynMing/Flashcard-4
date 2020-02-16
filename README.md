@@ -4,7 +4,7 @@
 ### App Description
 This app displays a question. When the user clicks on the question, the card will display the answer.
 It will also have the option to display multiple choice answers and let the user know if their answer
-was correct or not.
+is correct or not.
 
 ### App Walk-though
 
