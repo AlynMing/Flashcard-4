@@ -5,7 +5,7 @@
 This app contains all features from the previous lab. In addition, it allows the user to add a new flashcard by clicking on the '+' button. The user enters a question and answer and clicks the save button to update the flaschard. He or she may also cancel the addition of a new card by clicking the 'X' button.
 
 ### App Walk-though
-<img src="https://github.com/kfriday32/Flashcard/raw/master/Lab2%20(updated)%20-%20gif.gif" width=200><br>
+<img src="https://github.com/kfriday32/Flashcard/blob/master/Lab2%20updated%20-%20gif.gif" width=200><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
