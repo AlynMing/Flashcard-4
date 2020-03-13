@@ -7,7 +7,7 @@ relaunched so that the user has a functional set of study cards. Furthermore, it
 
 ### App Walk-though
 
-<img src="https://github.com/kfriday32/Flashcard/raw/master/Lab3%20-%20gif.gif" width=200><br>
+<img src="https://github.com/kfriday32/Flashcard/raw/master/Lab3%20updated%20-%20gif.gif" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
