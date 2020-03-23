@@ -6,7 +6,7 @@ New features of the app include animations when transitioning from one card to t
 
 ### App Walk-though
 
-<img src="https://github.com/kfriday32/Flashcard/blob/master/Lab%204%20-%20gif.gif" width=200><br>
+<img src="https://github.com/kfriday32/Flashcard/blob/master/Lab%204%20-%20gif%20(updated).gif" width=200><br>
 
 ## Required
 - [X] User sees a transition animation when going from the main screen to the add card screen.
@@ -17,7 +17,7 @@ New features of the app include animations when transitioning from one card to t
 - [X] Extra styling is added!
 - [ ] User sees a countdown timer for each question
 - [ ] User sees a 'card flip' animation when the card is tapped
-- [ ] User sees a celebration animation with confetti when they answer a question correctly
+- [X] User sees a celebration animation with confetti when they answer a question correctly
 
 
 
