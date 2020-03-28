@@ -6,7 +6,7 @@ New features of the app include animations when transitioning from one card to t
 
 ### App Walk-though
 
-<img src="https://github.com/kfriday32/Flashcard/blob/master/Lab%204%20-%20gif%20(updated).gif" width=200><br>
+<img src="https://github.com/kfriday32/Flashcard/blob/master/Flashcard%20-%20Final%20Gif.gif" width=200><br>
 
 ## Required
 - [X] User sees a transition animation when going from the main screen to the add card screen.
