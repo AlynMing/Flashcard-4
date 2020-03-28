@@ -2,7 +2,7 @@
 ## Lab 4
 
 ### App Description
-New features of the app include animations when transitioning from one card to the next. It includes all previous features which allow the user to create, edit and delete flashcards. Furthermore, it will tell the user when a card has been created or updated. The user has the option to display multiple choice answers.
+New features of the app include animations when transitioning from one card to the next and a fading homescreen when the app is first launched. It includes all previous features which allow the user to create, edit and delete flashcards. Furthermore, it will tell the user when a card has been created or updated. The user has the option to display multiple choice answers.
 
 ### App Walk-though
 
