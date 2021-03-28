@@ -1,5 +1,24 @@
 ## Flashcard App
 
+## Lab 4
+
+### App Description
+New features of the app include animations when transitioning from one card to the next and a fading homescreen when the app is first launched. It includes all previous features which allow the user to create, edit and delete flashcards. Furthermore, it will tell the user when a card has been created or updated. The user has the option to display multiple choice answers.
+
+### App Walk-though
+
+<img src="https://github.com/kfriday32/Flashcard/blob/master/Flashcard%20-%20Final%20Gif.gif" width=200><br>
+
+## Required
+- [X] User sees a transition animation when going from the main screen to the add card screen.
+- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [X] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [X] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [X] User sees a celebration animation with confetti when they answer a question correctly
 
 ## Lab 3
 
